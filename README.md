@@ -1,14 +1,6 @@
 # T-Rex-Runner-via-CNN
 
 
-### [M]
-
-In the 
+### [In Development]
 
 
-
-### Graphs
-
-
-
-![](https://github.com/Efekurdoglu/T-Rex-Runner-via-CNN/blob/main/Accuracy.JPG.jpg)
