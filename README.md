@@ -11,4 +11,4 @@ In the
 
 
 
-![](Accuracy.jpg)
+![](https://github.com/Efekurdoglu/T-Rex-Runner-via-CNN/blob/main/Accuracy.JPG.jpg)
