@@ -1,4 +1,4 @@
-# T-Rex-Runner-via-CNN
+# T-Rex Runner via CNN
 
 
 ### [In Development]
