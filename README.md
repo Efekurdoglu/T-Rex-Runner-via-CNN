@@ -1,6 +1,6 @@
 # T-Rex Runner via CNN
 
 
-### Introduction [In Development]
-
+### Introduction 
+- [In Development]
 
